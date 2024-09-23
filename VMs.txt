@@ -24,3 +24,5 @@ S.NO	Username	Assigned User
 21	24MAH2707_KB21	Shefali
 22	24MAH2707_KB22	Mahesh
 23	24MAH2707_KB23	Nandan
+24	24MAH2707_KB24	Satish Bhujbal
+
